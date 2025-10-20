@@ -784,7 +784,8 @@ section {
     font-size: 1.5rem;
     font-weight: 600;
     margin-bottom: 1.5rem;
-    background: linear-gradient(135deg, #447794, #2D5B75);
+    background: linear-gradient(135deg, rgb(91, 169, 208), rgb(62, 124, 163), rgb(30, 79, 107));
+    /* background: linear-gradient(135deg, #447794, #2D5B75); */
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -973,7 +974,9 @@ section {
 .timeline-content h3 {
     font-size: 1.3rem;
     font-weight: 600;
-    background: linear-gradient(135deg, #447794, #2D5B75);
+    background: linear-gradient(135deg, rgb(91, 169, 208), rgb(62, 124, 163), rgb(30, 79, 107));
+    
+    /* background: linear-gradient(135deg, #447794, #2D5B75); */
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -1150,7 +1153,8 @@ section {
     font-size: 1.3rem;
     font-weight: 600;
     margin-bottom: 1rem;
-    background: linear-gradient(135deg, #447794, #2D5B75);
+    background: linear-gradient(135deg, rgb(91, 169, 208), rgb(119, 163, 190), rgb(55, 122, 161));
+    /* background: linear-gradient(135deg, #447794, #2D5B75); */
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -1299,7 +1303,7 @@ section {
 .education-content h3 {
     font-size: 1.2rem;
     font-weight: 600;
-    background: linear-gradient(135deg, #447794, #2D5B75);
+    background: linear-gradient(135deg, #5BA9D0, #3E7CA3);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
