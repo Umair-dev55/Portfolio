@@ -784,7 +784,7 @@ section {
     font-size: 1.5rem;
     font-weight: 600;
     margin-bottom: 1.5rem;
-    background: linear-gradient(135deg, rgb(91, 169, 208), rgb(62, 124, 163), rgb(30, 79, 107));
+    background: linear-gradient(135deg, rgb(91, 169, 208), rgb(88, 156, 199), rgb(81, 148, 187));
     /* background: linear-gradient(135deg, #447794, #2D5B75); */
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
