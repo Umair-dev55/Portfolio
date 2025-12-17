@@ -1573,9 +1573,11 @@ section {
     .hamburger {
         display: flex;
     }
+
     .social-links {
         justify-content: center;
     }
+
     .nav-menu {
         position: fixed;
         left: -100%;
